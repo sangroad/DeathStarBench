@@ -5,6 +5,7 @@
  *  @generated
  */
 #include "HomeTimelineService.h"
+#include <cstdlib>
 
 namespace social_network {
 

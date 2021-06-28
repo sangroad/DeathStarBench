@@ -1,0 +1,10 @@
+sudo ./wrk -D exp -t1 -c16 -d40 -s ./scripts/social-network/read-user-timeline.lua http://localhost:8080/wrk2-api/user-timeline/read -R2000
+sudo ./wrk -D exp -t1 -c16 -d40 -s ./scripts/social-network/read-user-timeline.lua http://localhost:8080/wrk2-api/user-timeline/read -R2000
+sudo ./wrk -D exp -t1 -c16 -d40 -s ./scripts/social-network/read-user-timeline.lua http://localhost:8080/wrk2-api/user-timeline/read -R2000
+sudo ./wrk -D exp -t1 -c16 -d40 -s ./scripts/social-network/read-user-timeline.lua http://localhost:8080/wrk2-api/user-timeline/read -R2000
+sudo ./wrk -D exp -t1 -c16 -d40 -s ./scripts/social-network/read-user-timeline.lua http://localhost:8080/wrk2-api/user-timeline/read -R2000
+sudo ./wrk -D exp -t1 -c16 -d40 -s ./scripts/social-network/read-user-timeline.lua http://localhost:8080/wrk2-api/user-timeline/read -R2000
+sudo ./wrk -D exp -t1 -c16 -d40 -s ./scripts/social-network/read-user-timeline.lua http://localhost:8080/wrk2-api/user-timeline/read -R2000
+sudo ./wrk -D exp -t1 -c16 -d40 -s ./scripts/social-network/read-user-timeline.lua http://localhost:8080/wrk2-api/user-timeline/read -R2000
+sudo ./wrk -D exp -t1 -c16 -d40 -s ./scripts/social-network/read-user-timeline.lua http://localhost:8080/wrk2-api/user-timeline/read -R2000
+sudo ./wrk -D exp -t1 -c16 -d40 -s ./scripts/social-network/read-user-timeline.lua http://localhost:8080/wrk2-api/user-timeline/read -R2000
